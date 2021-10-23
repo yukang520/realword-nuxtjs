@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\home",
+        "_name": "_01cfc112"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\login",
+        "_name": "_37b7d05e"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\login",
+        "_name": "_37b7d05e"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\editor",
+        "_name": "_d859f3f6"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\settings",
+        "_name": "_3dba4a8a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\profile",
+        "_name": "_44a43811"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\admin\\\\Desktop\\\\realworld\\\\pages\\\\article",
+        "_name": "_2b6e7b5e"
+      }
+    ],
+    "_name": "_c0bc407c"
+  }
+]
